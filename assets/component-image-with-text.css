@@ -414,7 +414,4 @@
   .multirow__inner {
     row-gap: var(--grid-desktop-vertical-spacing);
   }
-  .image-with-text {
-    border:20px;
-  }
 }
